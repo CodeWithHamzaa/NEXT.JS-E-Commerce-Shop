@@ -2,7 +2,7 @@
 import Link from 'next/link'
 import React from 'react'
 import { RxHamburgerMenu } from 'react-icons/rx'
-import { AiOutlineShoppingCart, AiOutlineSearch } from 'react-icons/ai';
+import { AiOutlineSearch } from 'react-icons/ai';
 import { GrCart } from "react-icons/gr";
 import { TbDeviceWatchStats2 } from "react-icons/tb";
 import { Jura } from "next/font/google";

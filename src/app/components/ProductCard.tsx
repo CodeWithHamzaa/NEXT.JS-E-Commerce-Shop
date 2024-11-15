@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import React from 'react';
-import { AiFillStar, AiOutlineShoppingCart, AiOutlineStar } from 'react-icons/ai';
+import { AiFillStar, AiOutlineStar } from 'react-icons/ai';
 import { FiShoppingCart } from "react-icons/fi";
 import { useAppDispatch } from '../redux/hooks';
 import { addToCart } from '../redux/features/cartSlice';

@@ -28,7 +28,7 @@ const WeeklySection = () => {
             </section>
 
             <h3 className={`${delius.className} text-[32px] sm:text-[42px] md:text-[52px] text-[#222222] font-bold text-center mt-[40px] sm:mt-[50px]  mb-6 sm:mb-8 md:mb-9`}>
-                It's SMART' <span className='px-[3px] sm:px-[5px] text-white bg-[#222222] rounded-xl font-extrabold m-[1px] sm:m-[2px]'>O</span>CLOCK
+            It&apos;s SMART&apos; <span className='px-[3px] sm:px-[5px] text-white bg-[#222222] rounded-xl font-extrabold m-[1px] sm:m-[2px]'>O</span>CLOCK
             </h3>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6 md:gap-8 mb-10 sm:mb-16 md:mb-20">

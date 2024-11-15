@@ -1,6 +1,6 @@
 import { useAppDispatch } from "../redux/hooks";
-import { RxCross1 } from "react-icons/rx";
 import { removeFromCart } from "../redux/features/cartSlice";
+import Image from "next/image";
 
 interface propsType {
     id: number;
@@ -30,9 +30,12 @@ const CartProduct: React.FC<propsType> = ({
             <div className="shrink-0 relative">
                 <span
                     className="absolute top-1 left-1 flex h-6 w-6 items-center justify-center rounded-full border border-[#6346f3] bg-white text-sm font-medium text-gray-600 shadow sm:-top-1 sm:-right-2">{quantity}</span>
-                <img className="h-24 w-24 max-w-full rounded-lg object-cover"
+                <Image className="h-24 w-24 max-w-full rounded-lg object-cover"
                     src={img}
-                    alt={name} />
+                    alt={name}
+                    width={96}
+                    height={96}
+                />
             </div>
 
             <div className="relative flex flex-1 flex-col justify-between">

@@ -87,4 +87,4 @@ export default [
         category: ["smart", "digital", "kids"],
         sale: true,
     },
-]
+];
