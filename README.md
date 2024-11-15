@@ -52,5 +52,9 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! Please feel free to fork this repository, create a branch, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-![CodeWithHamza](./public/logo.png)
+
+<p align="center">
+  <img src="./public/Newlogo.png" alt="CodeWithHamza" />
+</p>
+
 
