@@ -2,6 +2,10 @@
 
 A modern, responsive e-commerce website built with **Next.js**, **Tailwind CSS**, and **React Context API**. This project showcases an online store with product listings, detail pages, and a shopping cart feature.
 
+# Live Demo
+
+You can access the live version of the project here: [Live Demo](https://next-js-e-commerce-shop-ten.vercel.app/)
+
 ## Features
 
 - **Product Catalog**: Displays a list of products with images, descriptions, and prices.
@@ -22,28 +26,27 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/CodeWithHamzaa/NEXT.JS-E-Commerce-Shop.git```
+   git clone https://github.com/CodeWithHamzaa/NEXT.JS-E-Commerce-Shop.git
 
 2. **Install dependencies**:
     Navigate to the project directory and run:
     ```bash
-   npm install```
+   npm install
 
 3. **Start the development server**:
     ```bash
-   npm run dev```
-
+   npm run dev
 
 ## Folder Structure
 
 - **pages/**: Contains the main application routes (e.g., homepage, product pages).
+
 - **components/**: Reusable UI components such as `Navbar`, `Footer`, `ProductCard`.
+
 - **utils/**: Utility functions or data files (e.g., product data).
+
 - **styles/**: Custom CSS styles for the app.
 
-## Deployment
-
-This project is deployed on **Vercel**. You can access the live version (https://next-js-e-commerce-shop-ten.vercel.app/).
 
 ## Contributing
 
