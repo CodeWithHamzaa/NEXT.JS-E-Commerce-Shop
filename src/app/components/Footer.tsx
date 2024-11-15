@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaFacebookF, FaTwitter, FaLinkedinIn, FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
     const footerNavs = [
