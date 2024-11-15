@@ -54,7 +54,7 @@ Contributions are welcome! Please feel free to fork this repository, create a br
 
 
 <p align="center">
-  <img src="./public/Newlogo.png" alt="CodeWithHamza" />
+  <img src="./public/logo.png" alt="CodeWithHamza" />
 </p>
 
 
